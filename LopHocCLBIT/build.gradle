@@ -25,6 +25,7 @@ dependencies {
     // TODO: Add dependencies here ...
     compile 'com.google.code.gson:gson:2.8.0'
     compile 'com.sparkjava:spark-core:2.3'
+    compile group: 'mysql', name: 'mysql-connector-java', version: '5.1.13'
     // You can read more about how to add dependency here:
     //   http://www.gradle.org/docs/current/userguide/dependency_management.html#sec:how_to_declare_your_dependencies
     testCompile group: 'junit', name: 'junit', version: '4.10'

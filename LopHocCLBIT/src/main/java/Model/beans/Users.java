@@ -4,12 +4,14 @@
  * and open the template in the editor.
  */
 
-package Model.beans;
+package model.beans;
 
 /**
  *
  * @author DatNguyen
  */
 public class Users {
+    private String userName;
+    private String passWord;
     
 }

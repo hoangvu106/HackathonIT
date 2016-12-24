@@ -10,6 +10,6 @@ package Model.dao;
  *
  * @author DatNguyen
  */
-public class ConectionUtil {
-    
+public interface UserLogin {
+    boolean checkLogin(String username, String password);
 }

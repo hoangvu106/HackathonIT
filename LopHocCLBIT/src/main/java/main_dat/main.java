@@ -4,12 +4,17 @@
  * and open the template in the editor.
  */
 
-package Model.beans;
+package main_dat;
+
+import Model.dao.ConnectionUtil;
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.Statement;
 
 /**
  *
  * @author DatNguyen
  */
-public  Member {
+public class main {
     
 }
